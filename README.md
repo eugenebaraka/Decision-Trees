@@ -10,12 +10,27 @@ In this repository, you will find notebooks to help you get started with machine
 ## Set up
 
 If you want to work on the notebooks yourself, use the following commands to run them locally:
-    
-    ```
-    git clone https://github.com/eugenebaraka/ML.git
-    cd ML
-    jupyter notebook --generate-config
-    ```
+  
+```bash
+git clone https://github.com/eugenebaraka/ML.git
+cd ML
+```
+If you are using jupyter notebook as your IDE, run this to open working directory in jupyter
 
+```bash
+jupyter notebook
+```
+
+Otherwise, open the working directory in your preferred IDE. 
+
+## Spot a mistake or want to add a beginner-friendly ML model tutorial?
+
+Contributions are welcome! Follow these steps to contribute:
+
+- Fork this repository
+- Clone your forked repository
+- Modify or add a notebook
+- Commit and push
+- Create a pull request
 
 
