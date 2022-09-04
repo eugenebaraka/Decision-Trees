@@ -12,8 +12,8 @@ In this repository, you will find notebooks to help you get started with machine
 If you want to work on the notebooks yourself, use the following commands to run them locally:
   
 ```bash
-git clone https://github.com/eugenebaraka/ML.git
-cd ML
+git clone https://github.com/eugenebaraka/Machine-Learning-for-beginners.git
+cd Machine-Learning-for-beginners
 ```
 If you are using jupyter notebook as your IDE, run this to open working directory in jupyter
 
