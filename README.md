@@ -11,7 +11,7 @@ In this repository, you will find notebooks to help you get started with machine
 
 If you want to work on the notebooks yourself, use the following commands to run them locally:
     
-    ```bash
+    ```
     git clone https://github.com/eugenebaraka/ML.git
     cd ML
     jupyter notebook --generate-config
