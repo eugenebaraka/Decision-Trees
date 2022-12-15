@@ -1,6 +1,6 @@
 # Machine Learning for Beginners
 
-## This is a list of notebooks that will help you get started with machine learning
+## A list of notebooks I am using to revise the most commonly used machine learning algorithms 
 
 In this repository, you will find notebooks to help you get started with machine learning. Note that this is a beginner's guide, so only fundamental concepts will be covered. The Data used for each notebook is within each model's directory.
 
